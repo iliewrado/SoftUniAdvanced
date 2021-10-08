@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.exe
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.deps.json
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.runtimeconfig.json
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.runtimeconfig.dev.json
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.dll
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\bin\Debug\netcoreapp3.1\04MatrixShuffling.pdb
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.AssemblyInfo.cs
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.dll
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.pdb
+D:\Users\ray_m\source\MultidimensionalArraysExercise\04MatrixShuffling\obj\Debug\netcoreapp3.1\04MatrixShuffling.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\bin\Debug\netcoreapp3.1\01SumMatrixElements.exe
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\bin\Debug\netcoreapp3.1\01SumMatrixElements.deps.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\bin\Debug\netcoreapp3.1\01SumMatrixElements.runtimeconfig.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\bin\Debug\netcoreapp3.1\01SumMatrixElements.runtimeconfig.dev.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\bin\Debug\netcoreapp3.1\01SumMatrixElements.dll
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\bin\Debug\netcoreapp3.1\01SumMatrixElements.pdb
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\obj\Debug\netcoreapp3.1\01SumMatrixElements.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\obj\Debug\netcoreapp3.1\01SumMatrixElements.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\obj\Debug\netcoreapp3.1\01SumMatrixElements.AssemblyInfo.cs
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\obj\Debug\netcoreapp3.1\01SumMatrixElements.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\obj\Debug\netcoreapp3.1\01SumMatrixElements.dll
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\obj\Debug\netcoreapp3.1\01SumMatrixElements.pdb
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\01SumMatrixElements\obj\Debug\netcoreapp3.1\01SumMatrixElements.genruntimeconfig.cache

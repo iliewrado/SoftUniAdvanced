@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\bin\Debug\netcoreapp3.1\07PascalTriangle.exe
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\bin\Debug\netcoreapp3.1\07PascalTriangle.deps.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\bin\Debug\netcoreapp3.1\07PascalTriangle.runtimeconfig.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\bin\Debug\netcoreapp3.1\07PascalTriangle.runtimeconfig.dev.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\bin\Debug\netcoreapp3.1\07PascalTriangle.dll
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\bin\Debug\netcoreapp3.1\07PascalTriangle.pdb
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\obj\Debug\netcoreapp3.1\07PascalTriangle.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\obj\Debug\netcoreapp3.1\07PascalTriangle.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\obj\Debug\netcoreapp3.1\07PascalTriangle.AssemblyInfo.cs
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\obj\Debug\netcoreapp3.1\07PascalTriangle.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\obj\Debug\netcoreapp3.1\07PascalTriangle.dll
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\obj\Debug\netcoreapp3.1\07PascalTriangle.pdb
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\07PascalTriangle\obj\Debug\netcoreapp3.1\07PascalTriangle.genruntimeconfig.cache

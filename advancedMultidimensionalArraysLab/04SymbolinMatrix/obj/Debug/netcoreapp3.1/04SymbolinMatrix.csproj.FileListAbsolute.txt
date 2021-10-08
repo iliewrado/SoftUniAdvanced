@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\bin\Debug\netcoreapp3.1\04SymbolinMatrix.exe
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\bin\Debug\netcoreapp3.1\04SymbolinMatrix.deps.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\bin\Debug\netcoreapp3.1\04SymbolinMatrix.runtimeconfig.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\bin\Debug\netcoreapp3.1\04SymbolinMatrix.runtimeconfig.dev.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\bin\Debug\netcoreapp3.1\04SymbolinMatrix.dll
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\bin\Debug\netcoreapp3.1\04SymbolinMatrix.pdb
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\obj\Debug\netcoreapp3.1\04SymbolinMatrix.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\obj\Debug\netcoreapp3.1\04SymbolinMatrix.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\obj\Debug\netcoreapp3.1\04SymbolinMatrix.AssemblyInfo.cs
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\obj\Debug\netcoreapp3.1\04SymbolinMatrix.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\obj\Debug\netcoreapp3.1\04SymbolinMatrix.dll
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\obj\Debug\netcoreapp3.1\04SymbolinMatrix.pdb
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\04SymbolinMatrix\obj\Debug\netcoreapp3.1\04SymbolinMatrix.genruntimeconfig.cache

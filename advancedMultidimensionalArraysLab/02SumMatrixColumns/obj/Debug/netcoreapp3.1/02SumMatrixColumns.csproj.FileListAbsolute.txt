@@ -1,0 +1,12 @@
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.exe
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.deps.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.runtimeconfig.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.runtimeconfig.dev.json
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.dll
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\bin\Debug\netcoreapp3.1\02SumMatrixColumns.pdb
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.AssemblyInfo.cs
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.dll
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.pdb
+D:\Users\ray_m\source\advancedMultidimensionalArraysLab\02SumMatrixColumns\obj\Debug\netcoreapp3.1\02SumMatrixColumns.genruntimeconfig.cache

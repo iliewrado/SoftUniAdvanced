@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\bin\Debug\netcoreapp3.1\08Bombs.exe
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\bin\Debug\netcoreapp3.1\08Bombs.deps.json
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\bin\Debug\netcoreapp3.1\08Bombs.runtimeconfig.json
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\bin\Debug\netcoreapp3.1\08Bombs.runtimeconfig.dev.json
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\bin\Debug\netcoreapp3.1\08Bombs.dll
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\bin\Debug\netcoreapp3.1\08Bombs.pdb
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\obj\Debug\netcoreapp3.1\08Bombs.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\obj\Debug\netcoreapp3.1\08Bombs.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\obj\Debug\netcoreapp3.1\08Bombs.AssemblyInfo.cs
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\obj\Debug\netcoreapp3.1\08Bombs.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\obj\Debug\netcoreapp3.1\08Bombs.dll
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\obj\Debug\netcoreapp3.1\08Bombs.pdb
+D:\Users\ray_m\source\MultidimensionalArraysExercise\08Bombs\obj\Debug\netcoreapp3.1\08Bombs.genruntimeconfig.cache
