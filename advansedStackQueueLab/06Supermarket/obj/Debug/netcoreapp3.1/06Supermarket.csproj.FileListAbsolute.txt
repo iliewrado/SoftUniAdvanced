@@ -1,0 +1,12 @@
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.exe
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.deps.json
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.dll
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\bin\Debug\netcoreapp3.1\06Supermarket.pdb
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.dll
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.pdb
+D:\Users\ray_m\source\advansedStackQueueLab\06Supermarket\obj\Debug\netcoreapp3.1\06Supermarket.genruntimeconfig.cache

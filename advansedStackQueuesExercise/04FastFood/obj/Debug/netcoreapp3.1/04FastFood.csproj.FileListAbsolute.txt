@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\bin\Debug\netcoreapp3.1\04FastFood.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\bin\Debug\netcoreapp3.1\04FastFood.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\bin\Debug\netcoreapp3.1\04FastFood.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\bin\Debug\netcoreapp3.1\04FastFood.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\bin\Debug\netcoreapp3.1\04FastFood.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\bin\Debug\netcoreapp3.1\04FastFood.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\obj\Debug\netcoreapp3.1\04FastFood.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\obj\Debug\netcoreapp3.1\04FastFood.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\obj\Debug\netcoreapp3.1\04FastFood.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\obj\Debug\netcoreapp3.1\04FastFood.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\obj\Debug\netcoreapp3.1\04FastFood.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\obj\Debug\netcoreapp3.1\04FastFood.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\04FastFood\obj\Debug\netcoreapp3.1\04FastFood.genruntimeconfig.cache

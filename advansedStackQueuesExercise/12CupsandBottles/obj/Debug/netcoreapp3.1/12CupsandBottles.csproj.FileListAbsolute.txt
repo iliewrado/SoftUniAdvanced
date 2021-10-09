@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\bin\Debug\netcoreapp3.1\12CupsandBottles.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\bin\Debug\netcoreapp3.1\12CupsandBottles.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\bin\Debug\netcoreapp3.1\12CupsandBottles.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\bin\Debug\netcoreapp3.1\12CupsandBottles.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\bin\Debug\netcoreapp3.1\12CupsandBottles.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\bin\Debug\netcoreapp3.1\12CupsandBottles.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\obj\Debug\netcoreapp3.1\12CupsandBottles.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\obj\Debug\netcoreapp3.1\12CupsandBottles.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\obj\Debug\netcoreapp3.1\12CupsandBottles.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\obj\Debug\netcoreapp3.1\12CupsandBottles.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\obj\Debug\netcoreapp3.1\12CupsandBottles.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\obj\Debug\netcoreapp3.1\12CupsandBottles.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\12CupsandBottles\obj\Debug\netcoreapp3.1\12CupsandBottles.genruntimeconfig.cache

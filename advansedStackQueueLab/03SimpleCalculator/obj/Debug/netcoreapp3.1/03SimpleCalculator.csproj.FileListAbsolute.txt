@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.exe
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.deps.json
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.dll
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\bin\Debug\netcoreapp3.1\03SimpleCalculator.pdb
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.dll
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.pdb
+D:\Users\ray_m\source\advansedStackQueueLab\03SimpleCalculator\obj\Debug\netcoreapp3.1\03SimpleCalculator.genruntimeconfig.cache

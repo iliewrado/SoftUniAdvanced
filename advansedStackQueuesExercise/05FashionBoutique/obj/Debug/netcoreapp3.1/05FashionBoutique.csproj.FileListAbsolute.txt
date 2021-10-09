@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp3.1\05FashionBoutique.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp3.1\05FashionBoutique.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp3.1\05FashionBoutique.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp3.1\05FashionBoutique.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp3.1\05FashionBoutique.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\bin\Debug\netcoreapp3.1\05FashionBoutique.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp3.1\05FashionBoutique.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp3.1\05FashionBoutique.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp3.1\05FashionBoutique.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp3.1\05FashionBoutique.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp3.1\05FashionBoutique.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp3.1\05FashionBoutique.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\05FashionBoutique\obj\Debug\netcoreapp3.1\05FashionBoutique.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\bin\Debug\netcoreapp3.1\03MaximumMinimumElement.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\bin\Debug\netcoreapp3.1\03MaximumMinimumElement.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\bin\Debug\netcoreapp3.1\03MaximumMinimumElement.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\bin\Debug\netcoreapp3.1\03MaximumMinimumElement.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\bin\Debug\netcoreapp3.1\03MaximumMinimumElement.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\bin\Debug\netcoreapp3.1\03MaximumMinimumElement.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\obj\Debug\netcoreapp3.1\03MaximumMinimumElement.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\obj\Debug\netcoreapp3.1\03MaximumMinimumElement.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\obj\Debug\netcoreapp3.1\03MaximumMinimumElement.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\obj\Debug\netcoreapp3.1\03MaximumMinimumElement.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\obj\Debug\netcoreapp3.1\03MaximumMinimumElement.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\obj\Debug\netcoreapp3.1\03MaximumMinimumElement.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\03MaximumMinimumElement\obj\Debug\netcoreapp3.1\03MaximumMinimumElement.genruntimeconfig.cache

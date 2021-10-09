@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp3.1\09SimpleTextEditor.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp3.1\09SimpleTextEditor.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp3.1\09SimpleTextEditor.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp3.1\09SimpleTextEditor.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp3.1\09SimpleTextEditor.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\bin\Debug\netcoreapp3.1\09SimpleTextEditor.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp3.1\09SimpleTextEditor.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp3.1\09SimpleTextEditor.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp3.1\09SimpleTextEditor.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp3.1\09SimpleTextEditor.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp3.1\09SimpleTextEditor.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp3.1\09SimpleTextEditor.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\09SimpleTextEditor\obj\Debug\netcoreapp3.1\09SimpleTextEditor.genruntimeconfig.cache

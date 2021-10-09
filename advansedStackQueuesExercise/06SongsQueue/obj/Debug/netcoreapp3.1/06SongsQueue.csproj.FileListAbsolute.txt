@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\bin\Debug\netcoreapp3.1\06SongsQueue.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\bin\Debug\netcoreapp3.1\06SongsQueue.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\bin\Debug\netcoreapp3.1\06SongsQueue.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\bin\Debug\netcoreapp3.1\06SongsQueue.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\bin\Debug\netcoreapp3.1\06SongsQueue.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\bin\Debug\netcoreapp3.1\06SongsQueue.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\obj\Debug\netcoreapp3.1\06SongsQueue.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\obj\Debug\netcoreapp3.1\06SongsQueue.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\obj\Debug\netcoreapp3.1\06SongsQueue.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\obj\Debug\netcoreapp3.1\06SongsQueue.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\obj\Debug\netcoreapp3.1\06SongsQueue.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\obj\Debug\netcoreapp3.1\06SongsQueue.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\06SongsQueue\obj\Debug\netcoreapp3.1\06SongsQueue.genruntimeconfig.cache

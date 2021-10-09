@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\bin\Debug\netcoreapp3.1\11KeyRevolver.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\bin\Debug\netcoreapp3.1\11KeyRevolver.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\bin\Debug\netcoreapp3.1\11KeyRevolver.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\bin\Debug\netcoreapp3.1\11KeyRevolver.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\bin\Debug\netcoreapp3.1\11KeyRevolver.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\bin\Debug\netcoreapp3.1\11KeyRevolver.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\obj\Debug\netcoreapp3.1\11KeyRevolver.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\obj\Debug\netcoreapp3.1\11KeyRevolver.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\obj\Debug\netcoreapp3.1\11KeyRevolver.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\obj\Debug\netcoreapp3.1\11KeyRevolver.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\obj\Debug\netcoreapp3.1\11KeyRevolver.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\obj\Debug\netcoreapp3.1\11KeyRevolver.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\11KeyRevolver\obj\Debug\netcoreapp3.1\11KeyRevolver.genruntimeconfig.cache

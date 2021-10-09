@@ -1,0 +1,12 @@
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\bin\Debug\netcoreapp3.1\08TrafficJam.exe
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\bin\Debug\netcoreapp3.1\08TrafficJam.deps.json
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\bin\Debug\netcoreapp3.1\08TrafficJam.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\bin\Debug\netcoreapp3.1\08TrafficJam.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\bin\Debug\netcoreapp3.1\08TrafficJam.dll
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\bin\Debug\netcoreapp3.1\08TrafficJam.pdb
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\obj\Debug\netcoreapp3.1\08TrafficJam.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\obj\Debug\netcoreapp3.1\08TrafficJam.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\obj\Debug\netcoreapp3.1\08TrafficJam.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\obj\Debug\netcoreapp3.1\08TrafficJam.dll
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\obj\Debug\netcoreapp3.1\08TrafficJam.pdb
+D:\Users\ray_m\source\advansedStackQueueLab\08TrafficJam\obj\Debug\netcoreapp3.1\08TrafficJam.genruntimeconfig.cache

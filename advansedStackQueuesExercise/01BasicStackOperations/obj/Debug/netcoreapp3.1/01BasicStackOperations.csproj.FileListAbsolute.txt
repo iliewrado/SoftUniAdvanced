@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp3.1\01BasicStackOperations.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp3.1\01BasicStackOperations.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp3.1\01BasicStackOperations.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp3.1\01BasicStackOperations.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp3.1\01BasicStackOperations.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\bin\Debug\netcoreapp3.1\01BasicStackOperations.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp3.1\01BasicStackOperations.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp3.1\01BasicStackOperations.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp3.1\01BasicStackOperations.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp3.1\01BasicStackOperations.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp3.1\01BasicStackOperations.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp3.1\01BasicStackOperations.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\01BasicStackOperations\obj\Debug\netcoreapp3.1\01BasicStackOperations.genruntimeconfig.cache

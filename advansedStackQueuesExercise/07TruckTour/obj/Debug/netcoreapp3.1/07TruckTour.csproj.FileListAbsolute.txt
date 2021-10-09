@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.exe
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.deps.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.runtimeconfig.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.runtimeconfig.dev.json
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\bin\Debug\netcoreapp3.1\07TruckTour.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.AssemblyInfo.cs
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.dll
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.pdb
+D:\Users\ray_m\source\advansedStackQueuesExercise\07TruckTour\obj\Debug\netcoreapp3.1\07TruckTour.genruntimeconfig.cache
