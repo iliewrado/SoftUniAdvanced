@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\bin\Debug\netcoreapp3.1\06SpeedRacing.exe
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\bin\Debug\netcoreapp3.1\06SpeedRacing.deps.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\bin\Debug\netcoreapp3.1\06SpeedRacing.runtimeconfig.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\bin\Debug\netcoreapp3.1\06SpeedRacing.runtimeconfig.dev.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\bin\Debug\netcoreapp3.1\06SpeedRacing.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\bin\Debug\netcoreapp3.1\06SpeedRacing.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\obj\Debug\netcoreapp3.1\06SpeedRacing.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\obj\Debug\netcoreapp3.1\06SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\obj\Debug\netcoreapp3.1\06SpeedRacing.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\obj\Debug\netcoreapp3.1\06SpeedRacing.AssemblyInfo.cs
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\obj\Debug\netcoreapp3.1\06SpeedRacing.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\obj\Debug\netcoreapp3.1\06SpeedRacing.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\obj\Debug\netcoreapp3.1\06SpeedRacing.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\06SpeedRacing\obj\Debug\netcoreapp3.1\06SpeedRacing.genruntimeconfig.cache

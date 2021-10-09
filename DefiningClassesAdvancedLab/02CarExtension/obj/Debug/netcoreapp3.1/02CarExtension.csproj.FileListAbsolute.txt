@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\bin\Debug\netcoreapp3.1\02CarExtension.exe
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\bin\Debug\netcoreapp3.1\02CarExtension.deps.json
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\bin\Debug\netcoreapp3.1\02CarExtension.runtimeconfig.json
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\bin\Debug\netcoreapp3.1\02CarExtension.runtimeconfig.dev.json
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\bin\Debug\netcoreapp3.1\02CarExtension.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\bin\Debug\netcoreapp3.1\02CarExtension.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\obj\Debug\netcoreapp3.1\02CarExtension.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\obj\Debug\netcoreapp3.1\02CarExtension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\obj\Debug\netcoreapp3.1\02CarExtension.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\obj\Debug\netcoreapp3.1\02CarExtension.AssemblyInfo.cs
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\obj\Debug\netcoreapp3.1\02CarExtension.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\obj\Debug\netcoreapp3.1\02CarExtension.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\obj\Debug\netcoreapp3.1\02CarExtension.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedLab\02CarExtension\obj\Debug\netcoreapp3.1\02CarExtension.genruntimeconfig.cache

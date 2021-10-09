@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\bin\Debug\netcoreapp3.1\10SoftUniParking.exe
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\bin\Debug\netcoreapp3.1\10SoftUniParking.deps.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\bin\Debug\netcoreapp3.1\10SoftUniParking.runtimeconfig.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\bin\Debug\netcoreapp3.1\10SoftUniParking.runtimeconfig.dev.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\bin\Debug\netcoreapp3.1\10SoftUniParking.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\bin\Debug\netcoreapp3.1\10SoftUniParking.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\obj\Debug\netcoreapp3.1\10SoftUniParking.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\obj\Debug\netcoreapp3.1\10SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\obj\Debug\netcoreapp3.1\10SoftUniParking.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\obj\Debug\netcoreapp3.1\10SoftUniParking.AssemblyInfo.cs
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\obj\Debug\netcoreapp3.1\10SoftUniParking.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\obj\Debug\netcoreapp3.1\10SoftUniParking.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\obj\Debug\netcoreapp3.1\10SoftUniParking.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\10SoftUniParking\obj\Debug\netcoreapp3.1\10SoftUniParking.genruntimeconfig.cache

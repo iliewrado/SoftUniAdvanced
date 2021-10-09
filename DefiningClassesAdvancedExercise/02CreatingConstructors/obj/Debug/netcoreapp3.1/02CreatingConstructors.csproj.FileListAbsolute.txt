@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.exe
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.deps.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.runtimeconfig.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.runtimeconfig.dev.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\bin\Debug\netcoreapp3.1\02CreatingConstructors.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.AssemblyInfo.cs
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\02CreatingConstructors\obj\Debug\netcoreapp3.1\02CreatingConstructors.genruntimeconfig.cache

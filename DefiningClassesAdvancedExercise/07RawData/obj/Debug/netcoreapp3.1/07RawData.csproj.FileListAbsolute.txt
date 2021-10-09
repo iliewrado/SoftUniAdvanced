@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\bin\Debug\netcoreapp3.1\07RawData.exe
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\bin\Debug\netcoreapp3.1\07RawData.deps.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\bin\Debug\netcoreapp3.1\07RawData.runtimeconfig.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\bin\Debug\netcoreapp3.1\07RawData.runtimeconfig.dev.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\bin\Debug\netcoreapp3.1\07RawData.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\bin\Debug\netcoreapp3.1\07RawData.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\obj\Debug\netcoreapp3.1\07RawData.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\obj\Debug\netcoreapp3.1\07RawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\obj\Debug\netcoreapp3.1\07RawData.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\obj\Debug\netcoreapp3.1\07RawData.AssemblyInfo.cs
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\obj\Debug\netcoreapp3.1\07RawData.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\obj\Debug\netcoreapp3.1\07RawData.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\obj\Debug\netcoreapp3.1\07RawData.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\07RawData\obj\Debug\netcoreapp3.1\07RawData.genruntimeconfig.cache

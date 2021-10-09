@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\bin\Debug\netcoreapp3.1\09PokemonTrainer.exe
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\bin\Debug\netcoreapp3.1\09PokemonTrainer.deps.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\bin\Debug\netcoreapp3.1\09PokemonTrainer.runtimeconfig.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\bin\Debug\netcoreapp3.1\09PokemonTrainer.runtimeconfig.dev.json
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\bin\Debug\netcoreapp3.1\09PokemonTrainer.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\bin\Debug\netcoreapp3.1\09PokemonTrainer.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\obj\Debug\netcoreapp3.1\09PokemonTrainer.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\obj\Debug\netcoreapp3.1\09PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\obj\Debug\netcoreapp3.1\09PokemonTrainer.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\obj\Debug\netcoreapp3.1\09PokemonTrainer.AssemblyInfo.cs
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\obj\Debug\netcoreapp3.1\09PokemonTrainer.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\obj\Debug\netcoreapp3.1\09PokemonTrainer.dll
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\obj\Debug\netcoreapp3.1\09PokemonTrainer.pdb
+D:\Users\ray_m\source\DefiningClassesAdvancedExercise\09PokemonTrainer\obj\Debug\netcoreapp3.1\09PokemonTrainer.genruntimeconfig.cache
