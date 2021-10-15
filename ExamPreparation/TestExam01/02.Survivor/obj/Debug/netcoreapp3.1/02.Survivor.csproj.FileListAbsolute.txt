@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\bin\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam\02.Survivor\obj\Debug\netcoreapp3.1\02.Survivor.genruntimeconfig.cache
