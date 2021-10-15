@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\bin\Debug\netcoreapp3.1\06ReverseAndExclude.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\bin\Debug\netcoreapp3.1\06ReverseAndExclude.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\bin\Debug\netcoreapp3.1\06ReverseAndExclude.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\bin\Debug\netcoreapp3.1\06ReverseAndExclude.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\bin\Debug\netcoreapp3.1\06ReverseAndExclude.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\bin\Debug\netcoreapp3.1\06ReverseAndExclude.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\obj\Debug\netcoreapp3.1\06ReverseAndExclude.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\obj\Debug\netcoreapp3.1\06ReverseAndExclude.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\obj\Debug\netcoreapp3.1\06ReverseAndExclude.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\obj\Debug\netcoreapp3.1\06ReverseAndExclude.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\obj\Debug\netcoreapp3.1\06ReverseAndExclude.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\obj\Debug\netcoreapp3.1\06ReverseAndExclude.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\obj\Debug\netcoreapp3.1\06ReverseAndExclude.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\06ReverseAndExclude\obj\Debug\netcoreapp3.1\06ReverseAndExclude.genruntimeconfig.cache

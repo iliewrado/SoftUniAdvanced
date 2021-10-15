@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\bin\Debug\netcoreapp3.1\12TriFunction.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\12TriFunction\obj\Debug\netcoreapp3.1\12TriFunction.genruntimeconfig.cache

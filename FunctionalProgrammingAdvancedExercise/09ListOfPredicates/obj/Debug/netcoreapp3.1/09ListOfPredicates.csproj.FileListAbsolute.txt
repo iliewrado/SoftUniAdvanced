@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\bin\Debug\netcoreapp3.1\09ListOfPredicates.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\bin\Debug\netcoreapp3.1\09ListOfPredicates.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\bin\Debug\netcoreapp3.1\09ListOfPredicates.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\bin\Debug\netcoreapp3.1\09ListOfPredicates.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\bin\Debug\netcoreapp3.1\09ListOfPredicates.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\bin\Debug\netcoreapp3.1\09ListOfPredicates.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\obj\Debug\netcoreapp3.1\09ListOfPredicates.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\obj\Debug\netcoreapp3.1\09ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\obj\Debug\netcoreapp3.1\09ListOfPredicates.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\obj\Debug\netcoreapp3.1\09ListOfPredicates.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\obj\Debug\netcoreapp3.1\09ListOfPredicates.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\obj\Debug\netcoreapp3.1\09ListOfPredicates.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\obj\Debug\netcoreapp3.1\09ListOfPredicates.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\09ListOfPredicates\obj\Debug\netcoreapp3.1\09ListOfPredicates.genruntimeconfig.cache

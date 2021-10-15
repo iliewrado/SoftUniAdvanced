@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\bin\Debug\netcoreapp3.1\02SumNumbers.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\02SumNumbers\obj\Debug\netcoreapp3.1\02SumNumbers.genruntimeconfig.cache

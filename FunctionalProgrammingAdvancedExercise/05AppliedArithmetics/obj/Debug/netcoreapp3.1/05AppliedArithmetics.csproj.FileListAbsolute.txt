@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\bin\Debug\netcoreapp3.1\05AppliedArithmetics.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\05AppliedArithmetics\obj\Debug\netcoreapp3.1\05AppliedArithmetics.genruntimeconfig.cache

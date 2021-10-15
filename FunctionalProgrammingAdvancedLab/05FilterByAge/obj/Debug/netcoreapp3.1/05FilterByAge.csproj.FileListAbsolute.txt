@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\bin\Debug\netcoreapp3.1\05FilterByAge.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\bin\Debug\netcoreapp3.1\05FilterByAge.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\bin\Debug\netcoreapp3.1\05FilterByAge.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\bin\Debug\netcoreapp3.1\05FilterByAge.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\bin\Debug\netcoreapp3.1\05FilterByAge.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\bin\Debug\netcoreapp3.1\05FilterByAge.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\obj\Debug\netcoreapp3.1\05FilterByAge.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\obj\Debug\netcoreapp3.1\05FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\obj\Debug\netcoreapp3.1\05FilterByAge.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\obj\Debug\netcoreapp3.1\05FilterByAge.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\obj\Debug\netcoreapp3.1\05FilterByAge.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\obj\Debug\netcoreapp3.1\05FilterByAge.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\obj\Debug\netcoreapp3.1\05FilterByAge.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\05FilterByAge\obj\Debug\netcoreapp3.1\05FilterByAge.genruntimeconfig.cache

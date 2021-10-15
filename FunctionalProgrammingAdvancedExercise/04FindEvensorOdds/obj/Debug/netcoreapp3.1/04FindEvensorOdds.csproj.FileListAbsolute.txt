@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\bin\Debug\netcoreapp3.1\04FindEvensorOdds.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\bin\Debug\netcoreapp3.1\04FindEvensorOdds.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\bin\Debug\netcoreapp3.1\04FindEvensorOdds.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\bin\Debug\netcoreapp3.1\04FindEvensorOdds.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\bin\Debug\netcoreapp3.1\04FindEvensorOdds.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\bin\Debug\netcoreapp3.1\04FindEvensorOdds.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\obj\Debug\netcoreapp3.1\04FindEvensorOdds.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\obj\Debug\netcoreapp3.1\04FindEvensorOdds.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\obj\Debug\netcoreapp3.1\04FindEvensorOdds.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\obj\Debug\netcoreapp3.1\04FindEvensorOdds.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\obj\Debug\netcoreapp3.1\04FindEvensorOdds.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\obj\Debug\netcoreapp3.1\04FindEvensorOdds.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\obj\Debug\netcoreapp3.1\04FindEvensorOdds.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\04FindEvensorOdds\obj\Debug\netcoreapp3.1\04FindEvensorOdds.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\bin\Debug\netcoreapp3.1\01SortEvenNumbers.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedLab\01SortEvenNumbers\obj\Debug\netcoreapp3.1\01SortEvenNumbers.genruntimeconfig.cache

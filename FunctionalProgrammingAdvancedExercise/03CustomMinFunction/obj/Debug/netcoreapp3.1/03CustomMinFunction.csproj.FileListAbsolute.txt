@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\bin\Debug\netcoreapp3.1\03CustomMinFunction.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\03CustomMinFunction\obj\Debug\netcoreapp3.1\03CustomMinFunction.genruntimeconfig.cache

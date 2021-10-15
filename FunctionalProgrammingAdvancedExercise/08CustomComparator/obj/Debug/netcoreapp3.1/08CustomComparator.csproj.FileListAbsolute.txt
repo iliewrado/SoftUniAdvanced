@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.exe
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.deps.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.runtimeconfig.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.runtimeconfig.dev.json
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\bin\Debug\netcoreapp3.1\08CustomComparator.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.AssemblyInfo.cs
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.dll
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.pdb
+D:\Users\ray_m\source\FunctionalProgrammingAdvancedExercise\08CustomComparator\obj\Debug\netcoreapp3.1\08CustomComparator.genruntimeconfig.cache
