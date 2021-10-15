@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomStructuresClass</name>
+    </assembly>
+    <members>
+        <member name="T:CustomStructuresClass.CustomList">
+            <summary>
+            Custom List Structure
+            </summary>
+        </member>
+        <member name="F:CustomStructuresClass.CustomList.InitialCapacity">
+            <summary>
+            Internal Initial Capacity
+            </summary>
+        </member>
+        <member name="F:CustomStructuresClass.CustomList.itemsArray">
+            <summary>
+            Internal Array
+            </summary>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.#ctor">
+            <summary>
+            Constructor initializes the capacity of the inner array
+            </summary>
+        </member>
+        <member name="P:CustomStructuresClass.CustomList.Count">
+            <summary>
+            Count of the elements in the list
+            </summary>
+        </member>
+        <member name="P:CustomStructuresClass.CustomList.Item(System.Int32)">
+            <summary>
+            Local variable representing the location of a value in an array
+            </summary>
+            <param name="index">Index parameter/value</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.Add(System.Int32)">
+            <summary>
+            Method to add an element to the end of the sequence
+            </summary>
+            <param name="number">Element value</param>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.RemoveAt(System.Int32)">
+            <summary>
+            Method which removes an element/value at given index
+            </summary>
+            <param name="index">Given index to remove the item</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.Insert(System.Int32,System.Int32)">
+            <summary>
+            Iserts element to given index of the list
+            </summary>
+            <param name="index">Given index</param>
+            <param name="item">Given element</param>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.Contains(System.Int32)">
+            <summary>
+            Checks if given element exists in colection
+            </summary>
+            <param name="number">Wanted item</param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.Swap(System.Int32,System.Int32)">
+            <summary>
+            Changes the positions between two elements of a given indexes
+            </summary>
+            <param name="firstIndex">First index</param>
+            <param name="secondIndex">Second index</param>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.ShiftRight(System.Int32)">
+            <summary>
+            Private method which shifts the locations/indexes of the elements backwards to open a spot to insert an element
+            </summary>
+            <param name="index">Stasting/Inserting index</param>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.ValidateIndex(System.Int32)">
+            <summary>
+            Method that confirms that this index is inside an array
+            </summary>
+            <param name="index">Parameter value</param>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.Resize">
+            <summary>
+            Method which doubles the size of list
+            </summary>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.Shrink">
+            <summary>
+            Method which reduces the size of the list by half
+            </summary>
+        </member>
+        <member name="M:CustomStructuresClass.CustomList.ShiftLeft(System.Int32)">
+            <summary>
+            Private method which shifts the locations/indexes of the elements forward afrer removing of element
+            </summary>
+            <param name="index">Starting index</param>
+        </member>
+        <member name="T:CustomStructuresClass.CustomStack">
+            <summary>
+            Custom Stack Structure
+            </summary>
+        </member>
+        <member name="F:CustomStructuresClass.CustomStack.InitialCapacity">
+            <summary>
+            Internal Initial Capacity
+            </summary>
+        </member>
+        <member name="F:CustomStructuresClass.CustomStack.itemsArray">
+            <summary>
+            Internal Array
+            </summary>
+        </member>
+        <member name="M:CustomStructuresClass.CustomStack.#ctor">
+            <summary>
+            Constructor initializes the capacity of the inner array
+            </summary>
+        </member>
+        <member name="P:CustomStructuresClass.CustomStack.Count">
+            <summary>
+            Count of the elements in the stack
+            </summary>
+        </member>
+        <member name="M:CustomStructuresClass.CustomStack.Push(System.Int32)">
+            <summary>
+            Adds element to the stak
+            </summary>
+            <param name="item">Given element</param>
+        </member>
+        <member name="M:CustomStructuresClass.CustomStack.Pop">
+            <summary>
+            Return and removes the last added element in stack
+            </summary>
+            <returns>Last item of the stack</returns>
+        </member>
+        <member name="M:CustomStructuresClass.CustomStack.Peek">
+            <summary>
+            Return last element added to the stack without removing it
+            </summary>
+            <returns>Last item of the stack</returns>
+        </member>
+        <member name="M:CustomStructuresClass.CustomStack.ForEach(System.Action{System.Int32})">
+             <summary>
+            Performs an given Action for each element in collection
+             </summary>
+             <param name="action">Given Action</param>
+        </member>
+        <member name="M:CustomStructuresClass.CustomStack.IsEmpty">
+            <summary>
+            Validate if stack has elements / Throws exception if it isn't
+            </summary>
+        </member>
+        <member name="M:CustomStructuresClass.CustomStack.Shrink">
+            <summary>
+            Resizes capacity of the stack by half
+            </summary>
+            
+        </member>
+        <member name="M:CustomStructuresClass.CustomStack.Resize">
+            <summary>
+            Doubles the capacity of the stack
+            </summary>
+        </member>
+    </members>
+</doc>

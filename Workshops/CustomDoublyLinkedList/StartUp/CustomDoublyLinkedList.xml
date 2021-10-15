@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomDoublyLinkedList</name>
+    </assembly>
+    <members>
+        <member name="T:CustomDoublyLinkedList.DoublyLinkedList">
+            <summary>
+            Custom Double Linked List
+            </summary>
+        </member>
+        <member name="P:CustomDoublyLinkedList.DoublyLinkedList.Count">
+            <summary>
+            Count of elements in the List
+            </summary>
+        </member>
+        <member name="P:CustomDoublyLinkedList.DoublyLinkedList.Head">
+            <summary>
+            First element of the List
+            </summary>
+        </member>
+        <member name="P:CustomDoublyLinkedList.DoublyLinkedList.Tail">
+            <summary>
+            Last element of the List
+            </summary>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.#ctor">
+            <summary>
+            Initialize Default/Empty Constructor
+            </summary>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.#ctor(System.Int32)">
+            <summary>
+            Initialize Constuctor with Single/First Value
+            </summary>
+            <param name="value">Element Value</param>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.#ctor(System.Collections.Generic.IEnumerable{System.Int32})">
+            <summary>
+            Create a List collection of elements
+            </summary>
+            <param name="list">Elements to append in collection</param>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.AddFirst(System.Int32)">
+            <summary>
+            Inserts an element in the beginning of the sequence
+            </summary>
+            <param name="element">Element Value</param>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.AddLast(System.Int32)">
+            <summary>
+            Append an element at the end of the sequence
+            </summary>
+            <param name="element">Element value</param>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.RemoveFirst">
+            <summary>
+            Removes First element of the sequence
+            </summary>
+            <returns>Returns the value of the removed item</returns>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.RemoveLast">
+            <summary>
+            Removes Last element of the sequence
+            </summary>
+            <returns>Returns the value of the removed item</returns>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.ForEach(System.Action{System.Int32})">
+            <summary>
+            Performs an action on each element of the collection
+            </summary>
+            <param name="action">Action to perform</param>
+        </member>
+        <member name="M:CustomDoublyLinkedList.DoublyLinkedList.ToArray">
+            <summary>
+            Convert elements of list to array
+            </summary>
+            <returns>Array of elements</returns>
+        </member>
+        <member name="T:CustomDoublyLinkedList.ListNode">
+            <summary>
+            Element of Custom Double Linked List
+            </summary>
+        </member>
+        <member name="P:CustomDoublyLinkedList.ListNode.Value">
+            <summary>
+            Value of the Element
+            </summary>
+        </member>
+        <member name="P:CustomDoublyLinkedList.ListNode.Previous">
+            <summary>
+            Previous Element
+            </summary>
+        </member>
+        <member name="P:CustomDoublyLinkedList.ListNode.Next">
+            <summary>
+            Next Element
+            </summary>
+        </member>
+    </members>
+</doc>

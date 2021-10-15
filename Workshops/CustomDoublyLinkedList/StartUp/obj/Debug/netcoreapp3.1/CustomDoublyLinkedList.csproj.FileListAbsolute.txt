@@ -1,0 +1,15 @@
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.exe
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.deps.json
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.json
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.runtimeconfig.dev.json
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.AssemblyInfo.cs
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.dll
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.pdb
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\obj\Debug\netcoreapp3.1\CustomDoublyLinkedList.genruntimeconfig.cache
+D:\Users\ray_m\source\CustomDoublyLinkedList\StartUp\bin\Debug\netcoreapp3.1\CustomDoublyLinkedList.xml

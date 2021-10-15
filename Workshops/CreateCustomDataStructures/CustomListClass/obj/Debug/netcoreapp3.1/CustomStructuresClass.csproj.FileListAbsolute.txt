@@ -1,0 +1,15 @@
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\CustomStructuresClass.exe
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\CustomStructuresClass.deps.json
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\CustomStructuresClass.runtimeconfig.json
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\CustomStructuresClass.runtimeconfig.dev.json
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\CustomStructuresClass.dll
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\CustomStructuresClass.pdb
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\bin\Debug\netcoreapp3.1\CustomStructuresClass.xml
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\CustomStructuresClass.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\CustomStructuresClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\CustomStructuresClass.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\CustomStructuresClass.AssemblyInfo.cs
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\CustomStructuresClass.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\CustomStructuresClass.dll
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\CustomStructuresClass.pdb
+D:\Users\ray_m\source\CreateCustomDataStructures\CustomListClass\obj\Debug\netcoreapp3.1\CustomStructuresClass.genruntimeconfig.cache
