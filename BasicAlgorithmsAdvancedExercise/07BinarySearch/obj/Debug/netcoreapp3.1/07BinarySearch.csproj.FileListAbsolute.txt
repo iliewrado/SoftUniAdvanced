@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\bin\Debug\netcoreapp3.1\07BinarySearch.exe
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\bin\Debug\netcoreapp3.1\07BinarySearch.deps.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\bin\Debug\netcoreapp3.1\07BinarySearch.runtimeconfig.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\bin\Debug\netcoreapp3.1\07BinarySearch.runtimeconfig.dev.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\bin\Debug\netcoreapp3.1\07BinarySearch.dll
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\bin\Debug\netcoreapp3.1\07BinarySearch.pdb
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\obj\Debug\netcoreapp3.1\07BinarySearch.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\obj\Debug\netcoreapp3.1\07BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\obj\Debug\netcoreapp3.1\07BinarySearch.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\obj\Debug\netcoreapp3.1\07BinarySearch.AssemblyInfo.cs
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\obj\Debug\netcoreapp3.1\07BinarySearch.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\obj\Debug\netcoreapp3.1\07BinarySearch.dll
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\obj\Debug\netcoreapp3.1\07BinarySearch.pdb
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\07BinarySearch\obj\Debug\netcoreapp3.1\07BinarySearch.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\bin\Debug\netcoreapp3.1\02RecursiveFactorial.exe
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\bin\Debug\netcoreapp3.1\02RecursiveFactorial.deps.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\bin\Debug\netcoreapp3.1\02RecursiveFactorial.runtimeconfig.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\bin\Debug\netcoreapp3.1\02RecursiveFactorial.runtimeconfig.dev.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\bin\Debug\netcoreapp3.1\02RecursiveFactorial.dll
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\bin\Debug\netcoreapp3.1\02RecursiveFactorial.pdb
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\obj\Debug\netcoreapp3.1\02RecursiveFactorial.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\obj\Debug\netcoreapp3.1\02RecursiveFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\obj\Debug\netcoreapp3.1\02RecursiveFactorial.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\obj\Debug\netcoreapp3.1\02RecursiveFactorial.AssemblyInfo.cs
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\obj\Debug\netcoreapp3.1\02RecursiveFactorial.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\obj\Debug\netcoreapp3.1\02RecursiveFactorial.dll
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\obj\Debug\netcoreapp3.1\02RecursiveFactorial.pdb
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\02RecursiveFactorial\obj\Debug\netcoreapp3.1\02RecursiveFactorial.genruntimeconfig.cache

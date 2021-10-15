@@ -1,0 +1,7 @@
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\04. Set Cover_Skeleton\obj\Debug\SetCover.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\04. Set Cover_Skeleton\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\04. Set Cover_Skeleton\bin\Debug\SetCover.exe.config
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\04. Set Cover_Skeleton\bin\Debug\SetCover.exe
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\04. Set Cover_Skeleton\bin\Debug\SetCover.pdb
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\04. Set Cover_Skeleton\obj\Debug\SetCover.exe
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\04. Set Cover_Skeleton\obj\Debug\SetCover.pdb

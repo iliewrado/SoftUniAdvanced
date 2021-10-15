@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\bin\Debug\netcoreapp3.1\01RecursiveArraySum.exe
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\bin\Debug\netcoreapp3.1\01RecursiveArraySum.deps.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\bin\Debug\netcoreapp3.1\01RecursiveArraySum.runtimeconfig.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\bin\Debug\netcoreapp3.1\01RecursiveArraySum.runtimeconfig.dev.json
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\bin\Debug\netcoreapp3.1\01RecursiveArraySum.dll
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\bin\Debug\netcoreapp3.1\01RecursiveArraySum.pdb
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\obj\Debug\netcoreapp3.1\01RecursiveArraySum.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\obj\Debug\netcoreapp3.1\01RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\obj\Debug\netcoreapp3.1\01RecursiveArraySum.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\obj\Debug\netcoreapp3.1\01RecursiveArraySum.AssemblyInfo.cs
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\obj\Debug\netcoreapp3.1\01RecursiveArraySum.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\obj\Debug\netcoreapp3.1\01RecursiveArraySum.dll
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\obj\Debug\netcoreapp3.1\01RecursiveArraySum.pdb
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\01RecursiveArraySum\obj\Debug\netcoreapp3.1\01RecursiveArraySum.genruntimeconfig.cache

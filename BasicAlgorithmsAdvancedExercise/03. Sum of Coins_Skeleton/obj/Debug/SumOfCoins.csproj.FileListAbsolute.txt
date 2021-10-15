@@ -1,0 +1,7 @@
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\03. Sum of Coins_Skeleton\bin\Debug\SumOfCoins.exe.config
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\03. Sum of Coins_Skeleton\bin\Debug\SumOfCoins.exe
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\03. Sum of Coins_Skeleton\bin\Debug\SumOfCoins.pdb
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\03. Sum of Coins_Skeleton\obj\Debug\SumOfCoins.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\03. Sum of Coins_Skeleton\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\03. Sum of Coins_Skeleton\obj\Debug\SumOfCoins.exe
+D:\Users\ray_m\source\BasicAlgorithmsAdvancedExercise\03. Sum of Coins_Skeleton\obj\Debug\SumOfCoins.pdb
