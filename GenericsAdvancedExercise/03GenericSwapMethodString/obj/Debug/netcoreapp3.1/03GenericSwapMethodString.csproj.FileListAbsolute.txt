@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\bin\Debug\netcoreapp3.1\03GenericSwapMethodString.exe
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\bin\Debug\netcoreapp3.1\03GenericSwapMethodString.deps.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\bin\Debug\netcoreapp3.1\03GenericSwapMethodString.runtimeconfig.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\bin\Debug\netcoreapp3.1\03GenericSwapMethodString.runtimeconfig.dev.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\bin\Debug\netcoreapp3.1\03GenericSwapMethodString.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\bin\Debug\netcoreapp3.1\03GenericSwapMethodString.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\obj\Debug\netcoreapp3.1\03GenericSwapMethodString.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\obj\Debug\netcoreapp3.1\03GenericSwapMethodString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\obj\Debug\netcoreapp3.1\03GenericSwapMethodString.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\obj\Debug\netcoreapp3.1\03GenericSwapMethodString.AssemblyInfo.cs
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\obj\Debug\netcoreapp3.1\03GenericSwapMethodString.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\obj\Debug\netcoreapp3.1\03GenericSwapMethodString.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\obj\Debug\netcoreapp3.1\03GenericSwapMethodString.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\03GenericSwapMethodString\obj\Debug\netcoreapp3.1\03GenericSwapMethodString.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\bin\Debug\netcoreapp3.1\05GenericCountMethodString.exe
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\bin\Debug\netcoreapp3.1\05GenericCountMethodString.deps.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\bin\Debug\netcoreapp3.1\05GenericCountMethodString.runtimeconfig.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\bin\Debug\netcoreapp3.1\05GenericCountMethodString.runtimeconfig.dev.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\bin\Debug\netcoreapp3.1\05GenericCountMethodString.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\bin\Debug\netcoreapp3.1\05GenericCountMethodString.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\obj\Debug\netcoreapp3.1\05GenericCountMethodString.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\obj\Debug\netcoreapp3.1\05GenericCountMethodString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\obj\Debug\netcoreapp3.1\05GenericCountMethodString.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\obj\Debug\netcoreapp3.1\05GenericCountMethodString.AssemblyInfo.cs
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\obj\Debug\netcoreapp3.1\05GenericCountMethodString.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\obj\Debug\netcoreapp3.1\05GenericCountMethodString.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\obj\Debug\netcoreapp3.1\05GenericCountMethodString.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\05GenericCountMethodString\obj\Debug\netcoreapp3.1\05GenericCountMethodString.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.exe
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.deps.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.runtimeconfig.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.runtimeconfig.dev.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\bin\Debug\netcoreapp3.1\04GenericSwapMethodInteger.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.AssemblyInfo.cs
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\04GenericSwapMethodInteger\obj\Debug\netcoreapp3.1\04GenericSwapMethodInteger.genruntimeconfig.cache

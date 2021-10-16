@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02GenericBoxOfInteger.exe
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02GenericBoxOfInteger.deps.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02GenericBoxOfInteger.runtimeconfig.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02GenericBoxOfInteger.runtimeconfig.dev.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02GenericBoxOfInteger.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\bin\Debug\netcoreapp3.1\02GenericBoxOfInteger.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02GenericBoxOfInteger.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02GenericBoxOfInteger.AssemblyInfo.cs
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02GenericBoxOfInteger.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02GenericBoxOfInteger.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\02GenericBoxOfInteger\obj\Debug\netcoreapp3.1\02GenericBoxOfInteger.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\bin\Debug\netcoreapp3.1\07Tuple.exe
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\bin\Debug\netcoreapp3.1\07Tuple.deps.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\bin\Debug\netcoreapp3.1\07Tuple.runtimeconfig.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\bin\Debug\netcoreapp3.1\07Tuple.runtimeconfig.dev.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\bin\Debug\netcoreapp3.1\07Tuple.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\bin\Debug\netcoreapp3.1\07Tuple.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\obj\Debug\netcoreapp3.1\07Tuple.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\obj\Debug\netcoreapp3.1\07Tuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\obj\Debug\netcoreapp3.1\07Tuple.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\obj\Debug\netcoreapp3.1\07Tuple.AssemblyInfo.cs
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\obj\Debug\netcoreapp3.1\07Tuple.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\obj\Debug\netcoreapp3.1\07Tuple.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\obj\Debug\netcoreapp3.1\07Tuple.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\07Tuple\obj\Debug\netcoreapp3.1\07Tuple.genruntimeconfig.cache

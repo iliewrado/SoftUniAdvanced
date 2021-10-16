@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\bin\Debug\netcoreapp3.1\01BoxOfT.exe
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\bin\Debug\netcoreapp3.1\01BoxOfT.deps.json
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\bin\Debug\netcoreapp3.1\01BoxOfT.runtimeconfig.json
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\bin\Debug\netcoreapp3.1\01BoxOfT.runtimeconfig.dev.json
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\bin\Debug\netcoreapp3.1\01BoxOfT.dll
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\bin\Debug\netcoreapp3.1\01BoxOfT.pdb
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\obj\Debug\netcoreapp3.1\01BoxOfT.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\obj\Debug\netcoreapp3.1\01BoxOfT.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\obj\Debug\netcoreapp3.1\01BoxOfT.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\obj\Debug\netcoreapp3.1\01BoxOfT.AssemblyInfo.cs
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\obj\Debug\netcoreapp3.1\01BoxOfT.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\obj\Debug\netcoreapp3.1\01BoxOfT.dll
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\obj\Debug\netcoreapp3.1\01BoxOfT.pdb
+D:\Users\ray_m\source\GenericsAdvancedLab\01BoxOfT\obj\Debug\netcoreapp3.1\01BoxOfT.genruntimeconfig.cache

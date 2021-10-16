@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.exe
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.deps.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.runtimeconfig.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.runtimeconfig.dev.json
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\bin\Debug\netcoreapp3.1\08Threeuple.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.AssemblyInfo.cs
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.dll
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.pdb
+D:\Users\ray_m\source\GenericsAdvancedExercise\08Threeuple\obj\Debug\netcoreapp3.1\08Threeuple.genruntimeconfig.cache
