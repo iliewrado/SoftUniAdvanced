@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\bin\Debug\netcoreapp3.1\01ListyIterator.exe
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\bin\Debug\netcoreapp3.1\01ListyIterator.deps.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\bin\Debug\netcoreapp3.1\01ListyIterator.runtimeconfig.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\bin\Debug\netcoreapp3.1\01ListyIterator.runtimeconfig.dev.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\bin\Debug\netcoreapp3.1\01ListyIterator.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\bin\Debug\netcoreapp3.1\01ListyIterator.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\obj\Debug\netcoreapp3.1\01ListyIterator.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\obj\Debug\netcoreapp3.1\01ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\obj\Debug\netcoreapp3.1\01ListyIterator.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\obj\Debug\netcoreapp3.1\01ListyIterator.AssemblyInfo.cs
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\obj\Debug\netcoreapp3.1\01ListyIterator.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\obj\Debug\netcoreapp3.1\01ListyIterator.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\obj\Debug\netcoreapp3.1\01ListyIterator.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\01ListyIterator\obj\Debug\netcoreapp3.1\01ListyIterator.genruntimeconfig.cache

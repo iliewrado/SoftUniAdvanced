@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\bin\Debug\netcoreapp3.1\03Stack.exe
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\bin\Debug\netcoreapp3.1\03Stack.deps.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\bin\Debug\netcoreapp3.1\03Stack.runtimeconfig.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\bin\Debug\netcoreapp3.1\03Stack.runtimeconfig.dev.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\bin\Debug\netcoreapp3.1\03Stack.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\bin\Debug\netcoreapp3.1\03Stack.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\obj\Debug\netcoreapp3.1\03Stack.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\obj\Debug\netcoreapp3.1\03Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\obj\Debug\netcoreapp3.1\03Stack.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\obj\Debug\netcoreapp3.1\03Stack.AssemblyInfo.cs
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\obj\Debug\netcoreapp3.1\03Stack.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\obj\Debug\netcoreapp3.1\03Stack.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\obj\Debug\netcoreapp3.1\03Stack.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\03Stack\obj\Debug\netcoreapp3.1\03Stack.genruntimeconfig.cache

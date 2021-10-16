@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\bin\Debug\netcoreapp3.1\01Library.exe
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\bin\Debug\netcoreapp3.1\01Library.deps.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\bin\Debug\netcoreapp3.1\01Library.runtimeconfig.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\bin\Debug\netcoreapp3.1\01Library.runtimeconfig.dev.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\bin\Debug\netcoreapp3.1\01Library.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\bin\Debug\netcoreapp3.1\01Library.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\obj\Debug\netcoreapp3.1\01Library.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\obj\Debug\netcoreapp3.1\01Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\obj\Debug\netcoreapp3.1\01Library.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\obj\Debug\netcoreapp3.1\01Library.AssemblyInfo.cs
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\obj\Debug\netcoreapp3.1\01Library.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\obj\Debug\netcoreapp3.1\01Library.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\obj\Debug\netcoreapp3.1\01Library.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\01Library\obj\Debug\netcoreapp3.1\01Library.genruntimeconfig.cache

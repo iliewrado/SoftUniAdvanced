@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedLab\IteratorsAndComparators\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache

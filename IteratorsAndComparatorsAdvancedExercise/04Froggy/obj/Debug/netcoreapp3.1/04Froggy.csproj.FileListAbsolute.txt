@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\bin\Debug\netcoreapp3.1\04Froggy.exe
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\bin\Debug\netcoreapp3.1\04Froggy.deps.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\bin\Debug\netcoreapp3.1\04Froggy.runtimeconfig.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\bin\Debug\netcoreapp3.1\04Froggy.runtimeconfig.dev.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\bin\Debug\netcoreapp3.1\04Froggy.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\bin\Debug\netcoreapp3.1\04Froggy.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\obj\Debug\netcoreapp3.1\04Froggy.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\obj\Debug\netcoreapp3.1\04Froggy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\obj\Debug\netcoreapp3.1\04Froggy.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\obj\Debug\netcoreapp3.1\04Froggy.AssemblyInfo.cs
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\obj\Debug\netcoreapp3.1\04Froggy.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\obj\Debug\netcoreapp3.1\04Froggy.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\obj\Debug\netcoreapp3.1\04Froggy.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\04Froggy\obj\Debug\netcoreapp3.1\04Froggy.genruntimeconfig.cache

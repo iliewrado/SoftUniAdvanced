@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\bin\Debug\netcoreapp3.1\06EqualityLogic.exe
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\bin\Debug\netcoreapp3.1\06EqualityLogic.deps.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\bin\Debug\netcoreapp3.1\06EqualityLogic.runtimeconfig.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\bin\Debug\netcoreapp3.1\06EqualityLogic.runtimeconfig.dev.json
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\bin\Debug\netcoreapp3.1\06EqualityLogic.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\bin\Debug\netcoreapp3.1\06EqualityLogic.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\obj\Debug\netcoreapp3.1\06EqualityLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\obj\Debug\netcoreapp3.1\06EqualityLogic.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\obj\Debug\netcoreapp3.1\06EqualityLogic.AssemblyInfo.cs
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\obj\Debug\netcoreapp3.1\06EqualityLogic.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\obj\Debug\netcoreapp3.1\06EqualityLogic.dll
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\obj\Debug\netcoreapp3.1\06EqualityLogic.pdb
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\obj\Debug\netcoreapp3.1\06EqualityLogic.genruntimeconfig.cache
+D:\Users\ray_m\source\IteratorsAndComparatorsAdvancedExercise\06EqualityLogic\obj\Debug\netcoreapp3.1\06EqualityLogic.csproj.AssemblyReference.cache
