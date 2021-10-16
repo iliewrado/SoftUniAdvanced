@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\bin\Debug\netcoreapp3.0\Guild.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\bin\Debug\netcoreapp3.0\Guild.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\bin\Debug\netcoreapp3.0\Guild.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\bin\Debug\netcoreapp3.0\Guild.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\bin\Debug\netcoreapp3.0\Guild.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\obj\Debug\netcoreapp3.0\Guild.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\obj\Debug\netcoreapp3.0\Guild.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\obj\Debug\netcoreapp3.0\Guild.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\obj\Debug\netcoreapp3.0\Guild.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\obj\Debug\netcoreapp3.0\Guild.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam02\Guild\obj\Debug\netcoreapp3.0\Guild.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\bin\Debug\netcoreapp3.1\01Lootbox.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam02\01Lootbox\obj\Debug\netcoreapp3.1\01Lootbox.genruntimeconfig.cache

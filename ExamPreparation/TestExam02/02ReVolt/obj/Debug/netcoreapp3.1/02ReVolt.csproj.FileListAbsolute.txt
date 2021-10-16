@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\bin\Debug\netcoreapp3.1\02ReVolt.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\bin\Debug\netcoreapp3.1\02ReVolt.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\bin\Debug\netcoreapp3.1\02ReVolt.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\bin\Debug\netcoreapp3.1\02ReVolt.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\bin\Debug\netcoreapp3.1\02ReVolt.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\bin\Debug\netcoreapp3.1\02ReVolt.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\obj\Debug\netcoreapp3.1\02ReVolt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\obj\Debug\netcoreapp3.1\02ReVolt.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\obj\Debug\netcoreapp3.1\02ReVolt.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\obj\Debug\netcoreapp3.1\02ReVolt.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\obj\Debug\netcoreapp3.1\02ReVolt.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\obj\Debug\netcoreapp3.1\02ReVolt.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\obj\Debug\netcoreapp3.1\02ReVolt.genruntimeconfig.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam02\02ReVolt\obj\Debug\netcoreapp3.1\02ReVolt.csproj.AssemblyReference.cache
