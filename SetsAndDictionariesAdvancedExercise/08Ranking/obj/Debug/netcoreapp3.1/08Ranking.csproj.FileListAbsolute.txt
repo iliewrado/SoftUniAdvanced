@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\bin\Debug\netcoreapp3.1\08Ranking.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\bin\Debug\netcoreapp3.1\08Ranking.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\bin\Debug\netcoreapp3.1\08Ranking.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\bin\Debug\netcoreapp3.1\08Ranking.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\bin\Debug\netcoreapp3.1\08Ranking.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\bin\Debug\netcoreapp3.1\08Ranking.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\obj\Debug\netcoreapp3.1\08Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\obj\Debug\netcoreapp3.1\08Ranking.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\obj\Debug\netcoreapp3.1\08Ranking.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\obj\Debug\netcoreapp3.1\08Ranking.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\obj\Debug\netcoreapp3.1\08Ranking.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\obj\Debug\netcoreapp3.1\08Ranking.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\08Ranking\obj\Debug\netcoreapp3.1\08Ranking.genruntimeconfig.cache

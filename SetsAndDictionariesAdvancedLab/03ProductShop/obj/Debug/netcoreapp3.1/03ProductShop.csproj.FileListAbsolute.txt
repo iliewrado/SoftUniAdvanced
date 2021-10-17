@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\bin\Debug\netcoreapp3.1\03ProductShop.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\03ProductShop\obj\Debug\netcoreapp3.1\03ProductShop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\bin\Debug\netcoreapp3.1\02SetsOfElements.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\bin\Debug\netcoreapp3.1\02SetsOfElements.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\bin\Debug\netcoreapp3.1\02SetsOfElements.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\bin\Debug\netcoreapp3.1\02SetsOfElements.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\bin\Debug\netcoreapp3.1\02SetsOfElements.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\bin\Debug\netcoreapp3.1\02SetsOfElements.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\obj\Debug\netcoreapp3.1\02SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\obj\Debug\netcoreapp3.1\02SetsOfElements.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\obj\Debug\netcoreapp3.1\02SetsOfElements.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\obj\Debug\netcoreapp3.1\02SetsOfElements.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\obj\Debug\netcoreapp3.1\02SetsOfElements.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\obj\Debug\netcoreapp3.1\02SetsOfElements.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\02SetsOfElements\obj\Debug\netcoreapp3.1\02SetsOfElements.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\bin\Debug\netcoreapp3.1\06Wardrobe.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\bin\Debug\netcoreapp3.1\06Wardrobe.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\bin\Debug\netcoreapp3.1\06Wardrobe.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\bin\Debug\netcoreapp3.1\06Wardrobe.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\bin\Debug\netcoreapp3.1\06Wardrobe.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\bin\Debug\netcoreapp3.1\06Wardrobe.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\obj\Debug\netcoreapp3.1\06Wardrobe.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\obj\Debug\netcoreapp3.1\06Wardrobe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\obj\Debug\netcoreapp3.1\06Wardrobe.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\obj\Debug\netcoreapp3.1\06Wardrobe.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\obj\Debug\netcoreapp3.1\06Wardrobe.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\obj\Debug\netcoreapp3.1\06Wardrobe.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\obj\Debug\netcoreapp3.1\06Wardrobe.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\06Wardrobe\obj\Debug\netcoreapp3.1\06Wardrobe.genruntimeconfig.cache

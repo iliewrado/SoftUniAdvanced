@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\bin\Debug\netcoreapp3.1\03PeriodicTable.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\bin\Debug\netcoreapp3.1\03PeriodicTable.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\bin\Debug\netcoreapp3.1\03PeriodicTable.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\bin\Debug\netcoreapp3.1\03PeriodicTable.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\bin\Debug\netcoreapp3.1\03PeriodicTable.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\bin\Debug\netcoreapp3.1\03PeriodicTable.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\obj\Debug\netcoreapp3.1\03PeriodicTable.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\obj\Debug\netcoreapp3.1\03PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\obj\Debug\netcoreapp3.1\03PeriodicTable.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\obj\Debug\netcoreapp3.1\03PeriodicTable.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\obj\Debug\netcoreapp3.1\03PeriodicTable.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\obj\Debug\netcoreapp3.1\03PeriodicTable.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\obj\Debug\netcoreapp3.1\03PeriodicTable.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\03PeriodicTable\obj\Debug\netcoreapp3.1\03PeriodicTable.genruntimeconfig.cache

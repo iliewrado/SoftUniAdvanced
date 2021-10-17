@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\bin\Debug\netcoreapp3.1\07SoftUniParty.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\bin\Debug\netcoreapp3.1\07SoftUniParty.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\bin\Debug\netcoreapp3.1\07SoftUniParty.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\bin\Debug\netcoreapp3.1\07SoftUniParty.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\bin\Debug\netcoreapp3.1\07SoftUniParty.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\bin\Debug\netcoreapp3.1\07SoftUniParty.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\obj\Debug\netcoreapp3.1\07SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\obj\Debug\netcoreapp3.1\07SoftUniParty.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\obj\Debug\netcoreapp3.1\07SoftUniParty.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\obj\Debug\netcoreapp3.1\07SoftUniParty.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\obj\Debug\netcoreapp3.1\07SoftUniParty.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\obj\Debug\netcoreapp3.1\07SoftUniParty.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\07SoftUniParty\obj\Debug\netcoreapp3.1\07SoftUniParty.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\04CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\04CitiesByContinentAndCountry.genruntimeconfig.cache

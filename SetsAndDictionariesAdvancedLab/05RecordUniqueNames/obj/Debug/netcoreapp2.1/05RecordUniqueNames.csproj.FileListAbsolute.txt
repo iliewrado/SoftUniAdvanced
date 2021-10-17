@@ -1,0 +1,13 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\bin\Debug\netcoreapp2.1\05RecordUniqueNames.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\bin\Debug\netcoreapp2.1\05RecordUniqueNames.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\bin\Debug\netcoreapp2.1\05RecordUniqueNames.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\bin\Debug\netcoreapp2.1\05RecordUniqueNames.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\bin\Debug\netcoreapp2.1\05RecordUniqueNames.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\obj\Debug\netcoreapp2.1\05RecordUniqueNames.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\obj\Debug\netcoreapp2.1\05RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\obj\Debug\netcoreapp2.1\05RecordUniqueNames.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\obj\Debug\netcoreapp2.1\05RecordUniqueNames.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\obj\Debug\netcoreapp2.1\05RecordUniqueNames.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\obj\Debug\netcoreapp2.1\05RecordUniqueNames.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\obj\Debug\netcoreapp2.1\05RecordUniqueNames.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\05RecordUniqueNames\obj\Debug\netcoreapp2.1\05RecordUniqueNames.genruntimeconfig.cache

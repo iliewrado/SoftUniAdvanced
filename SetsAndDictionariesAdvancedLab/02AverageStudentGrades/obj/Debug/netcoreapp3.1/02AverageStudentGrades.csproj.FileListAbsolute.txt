@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\bin\Debug\netcoreapp3.1\02AverageStudentGrades.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedLab\02AverageStudentGrades\obj\Debug\netcoreapp3.1\02AverageStudentGrades.genruntimeconfig.cache

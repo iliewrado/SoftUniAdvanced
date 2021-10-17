@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\bin\Debug\netcoreapp3.1\07TheVLogger.exe
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\bin\Debug\netcoreapp3.1\07TheVLogger.deps.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\bin\Debug\netcoreapp3.1\07TheVLogger.runtimeconfig.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\bin\Debug\netcoreapp3.1\07TheVLogger.runtimeconfig.dev.json
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\bin\Debug\netcoreapp3.1\07TheVLogger.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\bin\Debug\netcoreapp3.1\07TheVLogger.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\obj\Debug\netcoreapp3.1\07TheVLogger.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\obj\Debug\netcoreapp3.1\07TheVLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\obj\Debug\netcoreapp3.1\07TheVLogger.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\obj\Debug\netcoreapp3.1\07TheVLogger.AssemblyInfo.cs
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\obj\Debug\netcoreapp3.1\07TheVLogger.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\obj\Debug\netcoreapp3.1\07TheVLogger.dll
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\obj\Debug\netcoreapp3.1\07TheVLogger.pdb
+D:\Users\ray_m\source\SetsAndDictionariesAdvancedExercise\07TheVLogger\obj\Debug\netcoreapp3.1\07TheVLogger.genruntimeconfig.cache
