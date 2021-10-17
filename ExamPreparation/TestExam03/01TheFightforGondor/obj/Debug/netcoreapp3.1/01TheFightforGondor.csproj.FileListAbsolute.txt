@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\bin\Debug\netcoreapp3.1\01TheFightforGondor.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\bin\Debug\netcoreapp3.1\01TheFightforGondor.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\bin\Debug\netcoreapp3.1\01TheFightforGondor.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\bin\Debug\netcoreapp3.1\01TheFightforGondor.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\bin\Debug\netcoreapp3.1\01TheFightforGondor.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\bin\Debug\netcoreapp3.1\01TheFightforGondor.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\obj\Debug\netcoreapp3.1\01TheFightforGondor.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\obj\Debug\netcoreapp3.1\01TheFightforGondor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\obj\Debug\netcoreapp3.1\01TheFightforGondor.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\obj\Debug\netcoreapp3.1\01TheFightforGondor.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\obj\Debug\netcoreapp3.1\01TheFightforGondor.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\obj\Debug\netcoreapp3.1\01TheFightforGondor.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\obj\Debug\netcoreapp3.1\01TheFightforGondor.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01TheFightforGondor\obj\Debug\netcoreapp3.1\01TheFightforGondor.genruntimeconfig.cache

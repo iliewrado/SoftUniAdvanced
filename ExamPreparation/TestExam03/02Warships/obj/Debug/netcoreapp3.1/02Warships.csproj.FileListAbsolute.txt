@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\bin\Debug\netcoreapp3.1\02Warships.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\bin\Debug\netcoreapp3.1\02Warships.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\bin\Debug\netcoreapp3.1\02Warships.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\bin\Debug\netcoreapp3.1\02Warships.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\bin\Debug\netcoreapp3.1\02Warships.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\bin\Debug\netcoreapp3.1\02Warships.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\obj\Debug\netcoreapp3.1\02Warships.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\obj\Debug\netcoreapp3.1\02Warships.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\obj\Debug\netcoreapp3.1\02Warships.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\obj\Debug\netcoreapp3.1\02Warships.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\obj\Debug\netcoreapp3.1\02Warships.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\obj\Debug\netcoreapp3.1\02Warships.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\obj\Debug\netcoreapp3.1\02Warships.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Warships\obj\Debug\netcoreapp3.1\02Warships.genruntimeconfig.cache
