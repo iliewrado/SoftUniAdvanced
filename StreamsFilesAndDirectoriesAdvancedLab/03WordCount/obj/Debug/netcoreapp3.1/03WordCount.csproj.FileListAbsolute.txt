@@ -1,0 +1,16 @@
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\bin\Debug\netcoreapp3.1\03WordCount.exe
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\bin\Debug\netcoreapp3.1\text.txt
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\bin\Debug\netcoreapp3.1\words.txt
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\bin\Debug\netcoreapp3.1\03WordCount.deps.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\bin\Debug\netcoreapp3.1\03WordCount.runtimeconfig.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\bin\Debug\netcoreapp3.1\03WordCount.runtimeconfig.dev.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\bin\Debug\netcoreapp3.1\03WordCount.dll
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\bin\Debug\netcoreapp3.1\03WordCount.pdb
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\obj\Debug\netcoreapp3.1\03WordCount.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\obj\Debug\netcoreapp3.1\03WordCount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\obj\Debug\netcoreapp3.1\03WordCount.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\obj\Debug\netcoreapp3.1\03WordCount.AssemblyInfo.cs
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\obj\Debug\netcoreapp3.1\03WordCount.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\obj\Debug\netcoreapp3.1\03WordCount.dll
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\obj\Debug\netcoreapp3.1\03WordCount.pdb
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\03WordCount\obj\Debug\netcoreapp3.1\03WordCount.genruntimeconfig.cache

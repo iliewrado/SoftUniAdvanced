@@ -1,0 +1,15 @@
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\bin\Debug\netcoreapp3.1\05SliceAFile.exe
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\bin\Debug\netcoreapp3.1\sliceMe.txt
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\bin\Debug\netcoreapp3.1\05SliceAFile.deps.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\bin\Debug\netcoreapp3.1\05SliceAFile.runtimeconfig.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\bin\Debug\netcoreapp3.1\05SliceAFile.runtimeconfig.dev.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\bin\Debug\netcoreapp3.1\05SliceAFile.dll
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\bin\Debug\netcoreapp3.1\05SliceAFile.pdb
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\obj\Debug\netcoreapp3.1\05SliceAFile.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\obj\Debug\netcoreapp3.1\05SliceAFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\obj\Debug\netcoreapp3.1\05SliceAFile.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\obj\Debug\netcoreapp3.1\05SliceAFile.AssemblyInfo.cs
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\obj\Debug\netcoreapp3.1\05SliceAFile.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\obj\Debug\netcoreapp3.1\05SliceAFile.dll
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\obj\Debug\netcoreapp3.1\05SliceAFile.pdb
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\05SliceAFile\obj\Debug\netcoreapp3.1\05SliceAFile.genruntimeconfig.cache

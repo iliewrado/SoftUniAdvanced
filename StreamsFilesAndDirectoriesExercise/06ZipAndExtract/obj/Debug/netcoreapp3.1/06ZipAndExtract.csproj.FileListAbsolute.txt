@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\bin\Debug\netcoreapp3.1\06ZipAndExtract.exe
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\bin\Debug\netcoreapp3.1\copyMe.png
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\bin\Debug\netcoreapp3.1\06ZipAndExtract.deps.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\bin\Debug\netcoreapp3.1\06ZipAndExtract.runtimeconfig.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\bin\Debug\netcoreapp3.1\06ZipAndExtract.runtimeconfig.dev.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\bin\Debug\netcoreapp3.1\06ZipAndExtract.dll
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\bin\Debug\netcoreapp3.1\06ZipAndExtract.pdb
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\obj\Debug\netcoreapp3.1\06ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\obj\Debug\netcoreapp3.1\06ZipAndExtract.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\obj\Debug\netcoreapp3.1\06ZipAndExtract.AssemblyInfo.cs
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\obj\Debug\netcoreapp3.1\06ZipAndExtract.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\obj\Debug\netcoreapp3.1\06ZipAndExtract.dll
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\obj\Debug\netcoreapp3.1\06ZipAndExtract.pdb
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\06ZipAndExtract\obj\Debug\netcoreapp3.1\06ZipAndExtract.genruntimeconfig.cache

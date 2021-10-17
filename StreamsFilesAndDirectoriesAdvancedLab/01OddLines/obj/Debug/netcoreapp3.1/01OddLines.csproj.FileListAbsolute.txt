@@ -1,0 +1,15 @@
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\bin\Debug\netcoreapp3.1\01OddLines.exe
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\bin\Debug\netcoreapp3.1\Input.txt
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\bin\Debug\netcoreapp3.1\01OddLines.deps.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\bin\Debug\netcoreapp3.1\01OddLines.runtimeconfig.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\bin\Debug\netcoreapp3.1\01OddLines.runtimeconfig.dev.json
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\bin\Debug\netcoreapp3.1\01OddLines.dll
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\bin\Debug\netcoreapp3.1\01OddLines.pdb
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\obj\Debug\netcoreapp3.1\01OddLines.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\obj\Debug\netcoreapp3.1\01OddLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\obj\Debug\netcoreapp3.1\01OddLines.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\obj\Debug\netcoreapp3.1\01OddLines.AssemblyInfo.cs
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\obj\Debug\netcoreapp3.1\01OddLines.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\obj\Debug\netcoreapp3.1\01OddLines.dll
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\obj\Debug\netcoreapp3.1\01OddLines.pdb
+D:\Users\ray_m\source\LabStreamsFilesAndDirectoriesAdvanced\01OddLines\obj\Debug\netcoreapp3.1\01OddLines.genruntimeconfig.cache

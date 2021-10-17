@@ -1,0 +1,15 @@
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\bin\Debug\netcoreapp3.1\01EvenLines.exe
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\bin\Debug\netcoreapp3.1\text.txt
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\bin\Debug\netcoreapp3.1\01EvenLines.deps.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\bin\Debug\netcoreapp3.1\01EvenLines.runtimeconfig.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\bin\Debug\netcoreapp3.1\01EvenLines.runtimeconfig.dev.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\bin\Debug\netcoreapp3.1\01EvenLines.dll
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\bin\Debug\netcoreapp3.1\01EvenLines.pdb
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\obj\Debug\netcoreapp3.1\01EvenLines.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\obj\Debug\netcoreapp3.1\01EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\obj\Debug\netcoreapp3.1\01EvenLines.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\obj\Debug\netcoreapp3.1\01EvenLines.AssemblyInfo.cs
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\obj\Debug\netcoreapp3.1\01EvenLines.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\obj\Debug\netcoreapp3.1\01EvenLines.dll
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\obj\Debug\netcoreapp3.1\01EvenLines.pdb
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\01EvenLines\obj\Debug\netcoreapp3.1\01EvenLines.genruntimeconfig.cache

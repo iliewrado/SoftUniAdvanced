@@ -1,0 +1,15 @@
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\bin\Debug\netcoreapp3.1\04CopyBinaryFile.exe
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\bin\Debug\netcoreapp3.1\copyMe.png
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\bin\Debug\netcoreapp3.1\04CopyBinaryFile.deps.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\bin\Debug\netcoreapp3.1\04CopyBinaryFile.runtimeconfig.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\bin\Debug\netcoreapp3.1\04CopyBinaryFile.runtimeconfig.dev.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\bin\Debug\netcoreapp3.1\04CopyBinaryFile.dll
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\bin\Debug\netcoreapp3.1\04CopyBinaryFile.pdb
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\obj\Debug\netcoreapp3.1\04CopyBinaryFile.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\obj\Debug\netcoreapp3.1\04CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\obj\Debug\netcoreapp3.1\04CopyBinaryFile.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\obj\Debug\netcoreapp3.1\04CopyBinaryFile.AssemblyInfo.cs
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\obj\Debug\netcoreapp3.1\04CopyBinaryFile.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\obj\Debug\netcoreapp3.1\04CopyBinaryFile.dll
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\obj\Debug\netcoreapp3.1\04CopyBinaryFile.pdb
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\04CopyBinaryFile\obj\Debug\netcoreapp3.1\04CopyBinaryFile.genruntimeconfig.cache

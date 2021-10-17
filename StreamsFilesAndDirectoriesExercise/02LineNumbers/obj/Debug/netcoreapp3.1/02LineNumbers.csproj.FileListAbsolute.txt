@@ -1,0 +1,15 @@
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.exe
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\bin\Debug\netcoreapp3.1\text.txt
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.deps.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.runtimeconfig.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.runtimeconfig.dev.json
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.dll
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\bin\Debug\netcoreapp3.1\02LineNumbers.pdb
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.AssemblyInfo.cs
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.dll
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.pdb
+D:\Users\ray_m\source\StreamsFilesAndDirectoriesExercise\02LineNumbers\obj\Debug\netcoreapp3.1\02LineNumbers.genruntimeconfig.cache
