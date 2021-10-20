@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\bin\Debug\netcoreapp3.1\02Garden.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\bin\Debug\netcoreapp3.1\02Garden.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\bin\Debug\netcoreapp3.1\02Garden.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\bin\Debug\netcoreapp3.1\02Garden.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\bin\Debug\netcoreapp3.1\02Garden.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\bin\Debug\netcoreapp3.1\02Garden.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\obj\Debug\netcoreapp3.1\02Garden.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\obj\Debug\netcoreapp3.1\02Garden.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\obj\Debug\netcoreapp3.1\02Garden.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\obj\Debug\netcoreapp3.1\02Garden.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\obj\Debug\netcoreapp3.1\02Garden.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\obj\Debug\netcoreapp3.1\02Garden.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\obj\Debug\netcoreapp3.1\02Garden.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam03\02Garden\obj\Debug\netcoreapp3.1\02Garden.genruntimeconfig.cache

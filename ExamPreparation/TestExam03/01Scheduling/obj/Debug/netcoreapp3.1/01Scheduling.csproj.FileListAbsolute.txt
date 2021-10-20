@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\bin\Debug\netcoreapp3.1\01Scheduling.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam03\01Scheduling\obj\Debug\netcoreapp3.1\01Scheduling.genruntimeconfig.cache
