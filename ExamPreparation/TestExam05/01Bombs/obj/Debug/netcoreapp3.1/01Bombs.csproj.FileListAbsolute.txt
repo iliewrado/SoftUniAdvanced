@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\bin\Debug\netcoreapp3.1\01Bombs.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam05\01Bombs\obj\Debug\netcoreapp3.1\01Bombs.genruntimeconfig.cache

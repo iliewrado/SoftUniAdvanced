@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\bin\Debug\netcoreapp3.1\Parking.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam05\Parking\Parking\obj\Debug\netcoreapp3.1\Parking.genruntimeconfig.cache
