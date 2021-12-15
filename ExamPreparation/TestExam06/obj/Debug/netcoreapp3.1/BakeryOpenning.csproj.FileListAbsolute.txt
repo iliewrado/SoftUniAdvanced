@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam06\bin\Debug\netcoreapp3.1\BakeryOpenning.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam06\bin\Debug\netcoreapp3.1\BakeryOpenning.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam06\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam06\bin\Debug\netcoreapp3.1\BakeryOpenning.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam06\bin\Debug\netcoreapp3.1\BakeryOpenning.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam06\bin\Debug\netcoreapp3.1\BakeryOpenning.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam06\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam06\obj\Debug\netcoreapp3.1\BakeryOpenning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam06\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam06\obj\Debug\netcoreapp3.1\BakeryOpenning.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam06\obj\Debug\netcoreapp3.1\BakeryOpenning.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam06\obj\Debug\netcoreapp3.1\BakeryOpenning.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam06\obj\Debug\netcoreapp3.1\BakeryOpenning.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam06\obj\Debug\netcoreapp3.1\BakeryOpenning.genruntimeconfig.cache

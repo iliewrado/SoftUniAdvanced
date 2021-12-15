@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam07\bin\Debug\netcoreapp3.1\CocktailParty.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam07\bin\Debug\netcoreapp3.1\CocktailParty.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam07\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam07\bin\Debug\netcoreapp3.1\CocktailParty.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam07\bin\Debug\netcoreapp3.1\CocktailParty.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam07\bin\Debug\netcoreapp3.1\CocktailParty.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam07\obj\Debug\netcoreapp3.1\CocktailParty.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam07\obj\Debug\netcoreapp3.1\CocktailParty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam07\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam07\obj\Debug\netcoreapp3.1\CocktailParty.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam07\obj\Debug\netcoreapp3.1\CocktailParty.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam07\obj\Debug\netcoreapp3.1\CocktailParty.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam07\obj\Debug\netcoreapp3.1\CocktailParty.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam07\obj\Debug\netcoreapp3.1\CocktailParty.genruntimeconfig.cache

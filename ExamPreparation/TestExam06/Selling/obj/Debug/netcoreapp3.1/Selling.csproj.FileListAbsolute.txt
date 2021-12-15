@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.exe
+D:\Users\ray_m\source\ExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.deps.json
+D:\Users\ray_m\source\ExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.dll
+D:\Users\ray_m\source\ExamPreparation\Selling\bin\Debug\netcoreapp3.1\Selling.pdb
+D:\Users\ray_m\source\ExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.dll
+D:\Users\ray_m\source\ExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.pdb
+D:\Users\ray_m\source\ExamPreparation\Selling\obj\Debug\netcoreapp3.1\Selling.genruntimeconfig.cache

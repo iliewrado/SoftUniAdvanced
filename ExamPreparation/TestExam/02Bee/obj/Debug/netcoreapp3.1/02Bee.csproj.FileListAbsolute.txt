@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\bin\Debug\netcoreapp3.1\02Bee.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\bin\Debug\netcoreapp3.1\02Bee.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\bin\Debug\netcoreapp3.1\02Bee.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\bin\Debug\netcoreapp3.1\02Bee.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\bin\Debug\netcoreapp3.1\02Bee.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\bin\Debug\netcoreapp3.1\02Bee.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\obj\Debug\netcoreapp3.1\02Bee.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\obj\Debug\netcoreapp3.1\02Bee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\obj\Debug\netcoreapp3.1\02Bee.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\obj\Debug\netcoreapp3.1\02Bee.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\obj\Debug\netcoreapp3.1\02Bee.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\obj\Debug\netcoreapp3.1\02Bee.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\obj\Debug\netcoreapp3.1\02Bee.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam\02Bee\obj\Debug\netcoreapp3.1\02Bee.genruntimeconfig.cache

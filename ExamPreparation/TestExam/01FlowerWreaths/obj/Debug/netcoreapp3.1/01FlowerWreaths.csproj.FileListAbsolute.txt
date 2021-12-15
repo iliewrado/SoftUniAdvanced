@@ -1,0 +1,14 @@
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.exe
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.deps.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.runtimeconfig.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.runtimeconfig.dev.json
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\bin\Debug\netcoreapp3.1\01FlowerWreaths.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.csproj.AssemblyReference.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.AssemblyInfoInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.AssemblyInfo.cs
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.csproj.CoreCompileInputs.cache
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.dll
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.pdb
+D:\Users\ray_m\source\ExamPreparation\TestExam\01FlowerWreaths\obj\Debug\netcoreapp3.1\01FlowerWreaths.genruntimeconfig.cache
