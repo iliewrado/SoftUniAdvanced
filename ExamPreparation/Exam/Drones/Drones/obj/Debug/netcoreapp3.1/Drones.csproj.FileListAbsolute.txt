@@ -1,0 +1,14 @@
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.exe
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.deps.json
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.json
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.runtimeconfig.dev.json
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.dll
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\bin\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.AssemblyReference.cache
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfoInputs.cache
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.AssemblyInfo.cs
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.dll
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.pdb
+C:\Users\ray_m\Desktop\Exam\Drones\Drones\obj\Debug\netcoreapp3.1\Drones.genruntimeconfig.cache

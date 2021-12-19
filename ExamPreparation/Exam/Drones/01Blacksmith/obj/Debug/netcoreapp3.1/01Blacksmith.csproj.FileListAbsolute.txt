@@ -1,0 +1,14 @@
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\bin\Debug\netcoreapp3.1\01Blacksmith.exe
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\bin\Debug\netcoreapp3.1\01Blacksmith.deps.json
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\bin\Debug\netcoreapp3.1\01Blacksmith.runtimeconfig.json
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\bin\Debug\netcoreapp3.1\01Blacksmith.runtimeconfig.dev.json
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\bin\Debug\netcoreapp3.1\01Blacksmith.dll
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\bin\Debug\netcoreapp3.1\01Blacksmith.pdb
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\obj\Debug\netcoreapp3.1\01Blacksmith.csproj.AssemblyReference.cache
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\obj\Debug\netcoreapp3.1\01Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\obj\Debug\netcoreapp3.1\01Blacksmith.AssemblyInfoInputs.cache
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\obj\Debug\netcoreapp3.1\01Blacksmith.AssemblyInfo.cs
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\obj\Debug\netcoreapp3.1\01Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\obj\Debug\netcoreapp3.1\01Blacksmith.dll
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\obj\Debug\netcoreapp3.1\01Blacksmith.pdb
+C:\Users\ray_m\Desktop\Exam\Drones\01Blacksmith\obj\Debug\netcoreapp3.1\01Blacksmith.genruntimeconfig.cache

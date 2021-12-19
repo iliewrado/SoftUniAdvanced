@@ -1,0 +1,14 @@
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\bin\Debug\netcoreapp3.1\02Armory.exe
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\bin\Debug\netcoreapp3.1\02Armory.deps.json
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\bin\Debug\netcoreapp3.1\02Armory.runtimeconfig.json
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\bin\Debug\netcoreapp3.1\02Armory.runtimeconfig.dev.json
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\bin\Debug\netcoreapp3.1\02Armory.dll
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\bin\Debug\netcoreapp3.1\02Armory.pdb
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\obj\Debug\netcoreapp3.1\02Armory.csproj.AssemblyReference.cache
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\obj\Debug\netcoreapp3.1\02Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\obj\Debug\netcoreapp3.1\02Armory.AssemblyInfoInputs.cache
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\obj\Debug\netcoreapp3.1\02Armory.AssemblyInfo.cs
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\obj\Debug\netcoreapp3.1\02Armory.csproj.CoreCompileInputs.cache
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\obj\Debug\netcoreapp3.1\02Armory.dll
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\obj\Debug\netcoreapp3.1\02Armory.pdb
+C:\Users\ray_m\Desktop\Exam\Drones\02Armory\obj\Debug\netcoreapp3.1\02Armory.genruntimeconfig.cache
